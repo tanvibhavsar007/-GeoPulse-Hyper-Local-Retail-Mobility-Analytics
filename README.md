@@ -60,6 +60,22 @@ Tasks Completed:
 - movement_transition_report.csv
 - weekday_weekend_analysis.csv
 - gps_movement_preview.png
+
+# Day 3 - Weekday vs Weekend Movement Analysis
+Work Completed
+- Performed weekday and weekend movement analysis.
+- Compared Cycling, Driving, Stationary and Walking patterns.
+- Reviewed the movement transition report.
+- Examined selected records using time gaps, distance and speed values.
+- Reviewed GPS movement patterns and identified transitions for further investigation.
+
+Files Created & Uploaded on GitHub:
+- day3_analysis_notes.md
+- weekday_weekend_analysis.csv
+- movement_transition_report.csv
+# Status:
+Completed the initial weekday vs weekend movement analysis and reviewed movement transitions. Identified records requiring further validation of speed and distance values. Generated the analysis reports and prepared the files for GitHub Documentation.
+  
 - device_movement_trajectory.png
 - weekday_weekend_comparison.png
 # Overview:

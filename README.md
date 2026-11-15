@@ -82,3 +82,14 @@ Completed the initial weekday vs weekend movement analysis and reviewed movement
 A total of 69,086 movement mode transitions were flagged for review.These transitions required further invistigation and should not automatically be considered unrealistic.
 # Outcome:
 Sucessfully developed and executed the Initial GPS Validation and Movement analysis scripts and generated supporting reports and visualizations.
+
+# Day 4: GPS Data Validtaion and Quality Review
+Task Completed:
+- Reviewed the GPS Validation Report.
+- Reviewed the overall data quality report.
+- Checked the missing values and Duplicate records.
+- Verified latitude, longitude, speed and heading validation results.
+- Reviewed timestamp validation and Chronological ordering.
+- Checked store data validation results.
+- Reviewed time-period and weekday versus weekend analysis results.
+- Identified City Boundary validation from the confirmation of coordinates from Member 1

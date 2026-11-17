@@ -105,4 +105,15 @@ Task Completed:
   - device_movement_trajectory.png
   - gps_movement_preview.png
 Status:
-    Completed the initial review of GPS movement visualizations and uploaded two visualizations files to GitHub repository. 
+    Completed the initial review of GPS movement visualizations and uploaded two visualizations files to GitHub repository.
+
+# Day 6: Weekday vs Weekend Comparison Visualization
+Tasks Completed:
+- Reviewed the generated weekday versus weekend comparison chart.
+- Compared Cycling, Driving, Stationary and Wlaking movement patterns.
+- Examined the differences in GPS movement records between weekdays and weekend.
+- Reviewed the visual representation of movement patterns.
+   Files Created & Uploaded on GitHub:
+  - weekday_weekend_comparison.png
+Status:
+Sucessfully reviewed and uploaded the Weekday versus Weekend comparison visualization to the GitHub repository. 

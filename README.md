@@ -116,4 +116,28 @@ Tasks Completed:
    Files Created & Uploaded on GitHub:
   - weekday_weekend_comparison.png
 Status:
-Sucessfully reviewed and uploaded the Weekday versus Weekend comparison visualization to the GitHub repository. 
+Sucessfully reviewed and uploaded the Weekday versus Weekend comparison visualization to the GitHub repository.
+
+# Week 2 – Spatial Data Engineering
+# Day 1 – Spatial Data Overview
+
+Objective:
+To understand the GPS Pings dataset and Store Locations dataset before starting spatial data engineering using Apache Sedona.
+
+Tasks Completed:
+- Reviewed the GPS Pings dataset.
+- Reviewed the Store Locations dataset.
+- Identified important geographical columns such as Latitude and Longitude.
+- Understood how GPS locations and store locations will be used for spatial analysis.
+- Reviewed the planned spatial data engineering tasks for Week 2.
+
+Dataset Details:
+
+- GPS Pings Dataset: 100,000 records and 18 columns.
+- Store Locations Dataset: 20 records and 12 columns.
+
+File Added and Uploaded to GitHub:
+"docs/day1_spatial_data_overview.md"
+
+Status:
+Completed – Initial spatial data understanding and documentation.

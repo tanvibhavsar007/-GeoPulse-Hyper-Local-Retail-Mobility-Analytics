@@ -141,3 +141,23 @@ File Added and Uploaded to GitHub:
 
 Status:
 Completed – Initial spatial data understanding and documentation.
+
+# Week 2 – Day 2: Apache Sedona Setup and Validation
+
+Task Completed:
+
+- Installed and configured Java JDK 17 (Eclipse Temurin).
+- Verified Java installation using the terminal.
+- Checked Python 3.11.9 and pip installation.
+- Created and activated the Python virtual environment (".venv").
+- Opened and checked the GeoPulse project structure in VS Code.
+- Reviewed the GPS datasets ("gps_pings.csv" and "stores.csv").
+- Checked the GPS data validation script ("validate_gps_data.py").
+- Reviewed the existing GPS movement visualizations.
+
+Outcome:
+
+Completed the basic Java and Python environment setup and validation for the GeoPulse project.
+Prepared the development environment for Apache Sedona-related work.
+
+Status: Completed

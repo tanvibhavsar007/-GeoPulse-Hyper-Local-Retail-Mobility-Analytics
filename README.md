@@ -161,3 +161,15 @@ Completed the basic Java and Python environment setup and validation for the Geo
 Prepared the development environment for Apache Sedona-related work.
 
 Status: Completed
+
+Week 2 – Day 3: Dataset Preparation
+
+Work Completed:
+
+- Received six processed CSV files from Member 1.
+- Created the "data/processed" folder.
+- Organised GPS and store-related datasets.
+- Checked the GeoPulse project structure in VS Code.
+- Started preparing datasets for Apache Sedona spatial data processing.
+
+Current Status: Initial dataset organisation completed. Data inspection and spatial processing are pending.

@@ -174,3 +174,10 @@ Work Completed:
 
 Current Status: Initial dataset organisation completed. Data inspection and spatial processing are pending.
     
+## Current Project Status
+- Python environment setup completed.
+- PySpark installation completed.
+- SparkSession successfully tested.
+- Apache Sedona package installed.
+- PySpark and Sedona integration testing is in progress.
+- Geospatial data processing is yet to begin.

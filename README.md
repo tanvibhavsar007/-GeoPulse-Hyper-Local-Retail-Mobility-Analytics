@@ -162,7 +162,7 @@ Prepared the development environment for Apache Sedona-related work.
 
 Status: Completed
 
-Week 2 – Day 3: Dataset Preparation
+# Week 2 – Day 3: Dataset Preparation
 
 Work Completed:
 

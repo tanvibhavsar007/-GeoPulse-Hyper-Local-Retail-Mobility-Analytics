@@ -181,3 +181,18 @@ Current Status: Initial dataset organisation completed. Data inspection and spat
 - Apache Sedona package installed.
 - PySpark and Sedona integration testing is in progress.
 - Geospatial data processing is yet to begin.
+
+## Current Project Status
+
+- Python virtual environment setup completed.
+- PySpark 4.1.4 installed and verified.
+- Apache Sedona 1.9.1 installed.
+- Google API dependencies installed and Google module import verified.
+- Additional dependencies such as grpcio, grpcio-status and zstandard installed.
+- Pandas updated to version 2.3.3 for PySpark compatibility.
+- SparkSession successfully started.
+- Sedona Python import tested successfully.
+- PySpark and Sedona Java integration is still in progress.
+- Geospatial data processing is yet to begin.
+
+Project Status: In Progress
